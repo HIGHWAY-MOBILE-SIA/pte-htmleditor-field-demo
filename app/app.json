@@ -1,0 +1,36 @@
+﻿{
+    "id":  "bf87287b-e5e6-4706-847d-435cbe1b966f",
+    "name":  "Vengo Html Editor Field Adapter - Demo",
+    "publisher":  "Highway Mobile LLC",
+    "version":  "1.0.0.0",
+    "brief":  "Universal Html Editor field demo for Business Central.",
+    "description":  "",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "https://www.highwaymobi.com/vengo/htmleditor",
+    "logo":  "",
+    "dependencies":  [
+        {
+            "id": "75e97a80-dd32-4484-8ee0-265e72c59d09",
+            "name": "Vengo Html Editor Field Adapter",
+            "publisher": "Highway Mobile LLC",
+            "version": "1.0.0.5"
+        }
+    ],
+    "screenshots":  [ ],
+    "platform":  "1.0.0.0",
+    "application":  "21.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  80200,
+                         "to":  80299
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  false,
+                                   "includeSourceInSymbolFile":  false
+                               },
+    "runtime": "10.0"
+}
