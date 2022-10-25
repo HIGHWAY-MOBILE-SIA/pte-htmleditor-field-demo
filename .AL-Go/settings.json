@@ -12,6 +12,7 @@
     "doNotBuildTests":  true,
     "doNotRunTests":  true,
     "doNotRunBCPTTests":  true,
+    "enablePerTenantExtensionCop": true,
     "customCodeCops":  [
         ".github/BusinessCentral.LinterCop.dll"
     ],

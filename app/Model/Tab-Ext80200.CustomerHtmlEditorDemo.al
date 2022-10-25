@@ -10,5 +10,10 @@ tableextension 80200 "Customer HtmlEditor Demo" extends Customer
             Caption = 'Custom HtmlEditor Field';
             DataClassification = ToBeClassified;
         }
+        field(50001; "Custom HtmlEditor Field 2"; Blob)
+        {
+            Caption = 'Custom HtmlEditor Field';
+            DataClassification = ToBeClassified;
+        }
     }
 }
